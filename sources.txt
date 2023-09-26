@@ -1,0 +1,2 @@
+https://www.linkedin.com/pulse/generating-shakespearean-text-fine-tuned-gpt-2-sawera-khadim/ - article (key insights).
+https://salomelomsadze.medium.com/fine-tune-the-gpt-2-model-on-the-works-of-shakespeare-24b5e56dfe04 - more low level examples on GPT2 training
